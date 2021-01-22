@@ -24,3 +24,5 @@ Cada entrada deverá ter ao menos:
 1. O seu nome.
 2. Imagem sua ou que represente algo relacionado ao seu hobbie.
 3. Comentário sobre o seu relacionamento com a TI.
+
+__O uso de Branches é obrigatório.__
