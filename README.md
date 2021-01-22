@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Para começar, o líder de sua equipe deve acessar [este link](https://gitlab.com/kenzie-academy-brasil/se/fe/gitlab-group-assessment) e fazer o fork. Depois disso, todos os outros integrantes deverão clonar o repositório criado pelo líder.
+Para começar, o líder de sua equipe deve acessar [este link](https://gitlab.com/kenzie-academy-brasil/se/fe/gitlab-group-assessment-basic) e fazer o fork. Depois disso, todos os outros integrantes deverão clonar o repositório criado pelo líder.
 
 Nessa atividade você escreverá um pouco mais sobre o seu relacionamento com a TI, comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
 
