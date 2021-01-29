@@ -1,10 +1,12 @@
-# Entrega em Equipe
+# Trabalhando em Equipe com GIT
 
 ## Visão Geral
 
-Para começar, o líder de sua equipe deve acessar [este link](https://gitlab.com/kenzie-academy-brasil/se/fe/gitlab-group-assessment-basic) e fazer o fork. Depois disso, todos os outros integrantes deverão clonar o repositório criado pelo líder.
+Nessa entrega vocês terão de usar todo seu conhecimento em GIT para trabalhar em equipe.
 
-Nessa atividade você escreverá um pouco mais sobre o seu relacionamento com a TI, comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
+Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
+
+Para começar, o líder de sua equipe deve acessar [este link](https://gitlab.com/kenzie-academy-brasil/se/fe/gitlab-group-assessment-basic) e fazer o fork. Depois disso, todos os outros integrantes deverão clonar o repositório criado pelo líder.
 
 Cada pessoa deve ter ao menos 1 entrada. Para adicionar uma entrada basta editar um dos blocos de código como o código de baixo e editar o id da div editada com o seu nome:
 
