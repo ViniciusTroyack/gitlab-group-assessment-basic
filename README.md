@@ -39,7 +39,7 @@ Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a 
 
 ### Gerando GitlabPages
 
-Nossas correções são feitas baseadas na publicação do seu código no GitlabPages, sendo assim, precisamos que vocês tenham seguido a risca a [Atividade Instalando o nvm (Node Version Manager)](https://alunos.kenzie.com.br/courses/32/assignments/3853?module_item_id=4262) e a atividade [Ferramenta de Linhas de Comando do GitLab Pages](https://alunos.kenzie.com.br/courses/32/assignments/3858?module_item_id=4263). O líder precisará repetir o processo do último link no seu mais novo projeto.
+Nossas correções são feitas baseadas na publicação do seu código no GitlabPages, sendo assim, precisamos que vocês tenham seguido a risca a [Atividade Instalando o nvm (Node Version Manager)](https://alunos.kenzie.com.br/courses/36/assignments/4551?module_item_id=5098) e a atividade [Ferramenta de Linhas de Comando do GitLab Pages](https://alunos.kenzie.com.br/courses/36/assignments/4557?module_item_id=5099). O líder precisará repetir o processo do último link no seu mais novo projeto.
 
 ### Compartilhando com o Grupo de Correções
 
